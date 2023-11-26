@@ -1,0 +1,212 @@
+﻿DOI,Paper Title,Language
+10.1007/978-3-031-08530-7_45,Malware Classification Based on Graph Convolutional Neural Networks and Static Call Graph Features ,not specified
+10.1007/978-3-030-41579-2_13,Deep Learning-Based Vulnerable Function Detection: A Benchmark ,C
+10.1109/TSE.2022.3156637,SeqTrans: Automatic Vulnerability Fix via Sequence to Sequence Learning ,Java
+10.1007/978-3-030-92571-0_4,Vulnerability Analysis and Detection Using Graph Neural Networks for Android Operating System ,Java
+10.1007/978-3-030-41579-2_12,VulHunter: An Automated Vulnerability Detection System Based on Deep Learning and Bytecode ,PHP
+10.1007/978-3-030-91265-9_9,AIdetectorX: A Vulnerability Detector Based on TCN and Self-attention Mechanism ,C
+10.1007/978-3-030-91265-9_9,AIdetectorX: A Vulnerability Detector Based on TCN and Self-attention Mechanism ,C++
+10.1007/978-3-031-10542-5_8,A Line-Level Explainable Vulnerability Detection Approach for Java ,Java
+10.1109/TII.2018.2821768,Cross-Project Transfer Representation Learning for Vulnerable Function Discovery ,C
+10.1007/978-3-031-09357-9_3,An Empirical Evaluation of the Usefulness of Word Embedding Techniques in Deep Learning-Based Vulnerability Prediction ,C
+10.1007/978-3-031-09357-9_3,An Empirical Evaluation of the Usefulness of Word Embedding Techniques in Deep Learning-Based Vulnerability Prediction ,C++
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,C
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,C#
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,C++
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,Go
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,Java
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,JavaScript
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,PHP
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,Python
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,Ruby
+10.1145/3510003.3510150,Automated Detection of Password Leakage from Public GitHub Repositories ,TypeScript
+10.1109/ASEW.2019.00040,Project Achilles: A Prototype Tool for Static Method-Level Vulnerability Detection of Java Source Code Using a Recurrent Neural Network ,Java
+10.1109/TSE.2022.3147265,Neural Transfer Learning for Repairing Security Vulnerabilities in C Code ,C
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,C
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,C++
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,CSS
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,Gecko
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,JavaScript
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,Rust
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,SpiderMonkey
+10.1109/TSE.2019.2949275,Improving Vulnerability Inspection Efficiency Using Active Learning ,XUL
+10.1109/TSE.2014.2340398,Predicting Vulnerable Software Components via Text Mining ,Java
+10.1007/978-3-030-85347-1_20,A Comparison of Different Source Code Representation Methods for Vulnerability Prediction in Python ,Python
+10.1145/3436877,DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network ,C
+10.1145/3436877,DeepWukong: Statically Detecting Software Vulnerabilities Using Deep Graph Neural Network ,C++
+10.1145/3524842.3527949,LineVD: Statement-Level Vulnerability Detection Using Graph Neural Networks ,C
+10.1145/3524842.3527949,LineVD: Statement-Level Vulnerability Detection Using Graph Neural Networks ,C++
+10.1145/3558489.3559066,Improving the Performance of Code Vulnerability Prediction Using Abstract Syntax Tree Information ,Java
+10.1145/3540250.3549098,VulRepair: A T5-Based Automated Software Vulnerability Repair ,C
+10.1145/3510003.3510104,Practical Automated Detection of Malicious Npm Packages ,JavaScript
+10.1145/3510003.3510104,Practical Automated Detection of Malicious Npm Packages ,TypeScript
+10.1145/3524842.3528452,LineVul: A Transformer-Based Line-Level Vulnerability Prediction ,C
+10.1145/3524842.3528452,LineVul: A Transformer-Based Line-Level Vulnerability Prediction ,C++
+10.1109/ICCQ51190.2021.9392984,Towards a Prototype Based Explainable JavaScript Vulnerability Prediction Model ,JavaScript
+10.1109/ICPC52881.2021.00034,Shallow or Deep? An Empirical Study on Detecting Vulnerabilities using Deep Learning ,C
+10.1109/ICPC52881.2021.00034,Shallow or Deep? An Empirical Study on Detecting Vulnerabilities using Deep Learning ,C++
+10.1109/ICMLA51294.2020.00171,Using Graph Embeddings and Machine Learning to Detect Cryptography Misuse in Source Code ,Java
+10.1109/SANER50967.2021.00082,Representation vs. Model: What Matters Most for Source Code Vulnerability Detection ,C
+10.1109/SANER50967.2021.00082,Representation vs. Model: What Matters Most for Source Code Vulnerability Detection ,C++
+10.1109/IJCNN55064.2022.9892280,VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection ,C
+10.1109/IJCNN55064.2022.9892280,VulBERTa: Simplified Source Code Pre-Training for Vulnerability Detection ,C++
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,C
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,C++
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,CSS
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,HTML
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,Java
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,JavaScript
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,Rust
+10.1109/TSE.2018.2881961,Automatic Feature Learning for Predicting Vulnerable Software Components ,XML
+10.1109/ASE51524.2021.9678622,DeepCVA: Automated Commit-Level Vulnerability Assessment with Deep Multi-Task Learning ,Java
+10.1145/3533767.3534371,Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection ,C
+10.1145/3533767.3534371,Path-Sensitive Code Embedding via Contrastive Learning for Software Vulnerability Detection ,C++
+10.1109/TDSC.2014.2355839,A Probabilistic Discriminative Model for Android Malware Detection with Decompiled Source code ,Java
+10.1109/IJCNN.2016.7727508,Adaptive and scalable android malware detection through online learning ,Java
+10.1109/MSR.2019.00063,Automated software vulnerability assessment with concept drift ,not specified
+10.48550/arXiv.1803.04497,Automated software vulnerability detection with machine learning ,C
+10.48550/arXiv.1803.04497,Automated software vulnerability detection with machine learning ,C++
+10.3390/app10051692,Automated vulnerability detection in source code using minimum intermediate representation learning ,C
+10.3390/app10051692,Automated vulnerability detection in source code using minimum intermediate representation learning ,C#
+10.3390/app10051692,Automated vulnerability detection in source code using minimum intermediate representation learning ,C++
+10.3390/app10051692,Automated vulnerability detection in source code using minimum intermediate representation learning ,Java
+10.3390/app10051692,Automated vulnerability detection in source code using minimum intermediate representation learning ,PHP
+10.1109/COMPSAC51774.2021.00219,Automatic Identification of Vulnerable Code: Investigations with an AST-Based Neural Network ,Java
+10.1016/j.infsof.2021.106576,BGNN4VD: constructing bidirectional graph neural-network for vulnerability detection ,C
+10.1016/j.infsof.2021.106576,BGNN4VD: constructing bidirectional graph neural-network for vulnerability detection ,C++
+10.1109/RAISE.2019.00010,Challenging Machine Learning Algorithms in Predicting Vulnerable JavaScript Functions ,JavaScript
+10.1109/TKDE.2021.3095196,Combining graph neural networks with expert knowledge for smart contract vulnerability detection ,C
+10.1109/TKDE.2021.3095196,Combining graph neural networks with expert knowledge for smart contract vulnerability detection ,Solidity
+10.1109/TIFS.2020.3044773,Combining graph-based learning with automated data collection for code vulnerability detection ,C
+10.1109/TIFS.2020.3044773,Combining graph-based learning with automated data collection for code vulnerability detection ,Java
+10.48550/arXiv.1706.00947,"Context-aware, adaptive and scalable android malware detection through online learning (extended version) ",Java
+10.48550/arXiv.1706.00947,"Context-aware, adaptive and scalable android malware detection through online learning (extended version) ",Python
+10.1109/IJCNN.2019.8851923,Deep Domain Adaptation for Vulnerable Code Function Identification ,C
+10.1109/TFUZZ.2019.2958558,DeepBalance: Deep-Learning and Fuzzy Oversampling for Vulnerability Detection ,C
+10.48550/arXiv.1909.03496,Devign: Effective vulnerability identification by learning comprehensive program semantics via graph neural networks ,C
+10.1007/978-3-319-11203-9_10,DroidMiner: automated mining and characterization of fine-grained malicious behaviors in android applications ,Java
+10.48550/arXiv.1703.02458,End-to-end prediction of buffer overruns from raw source code via neural memory networks ,C
+10.1145/3457337.3457841,Eth2Vec: learning contract-wide code representations for vulnerability detection on ethereum smart contracts ,Solidity
+10.48550/arXiv.2006.12641,Exploring Software Naturalness through Neural Language Models ,C
+10.1109/ASE51524.2021.9678720,Finding A Needle in a Haystack: Automated Mining of Silent Vulnerability Fixes ,Java
+10.1109/DSC53577.2021.00060,GraphEye: A Novel Solution for Detecting Vulnerable Functions Based on Graph Attention Network [C] ,C
+10.1109/DSC53577.2021.00060,GraphEye: A Novel Solution for Detecting Vulnerable Functions Based on Graph Attention Network [C] ,C++
+10.1109/SANER53432.2022.00018,HERMES: Using Commit-Issue Linking to Detect Vulnerability-Fixing Commits ,Java
+10.48550/arXiv.2001.09148,Learning to catch security patches ,C
+10.48550/arXiv.2006.08614,Learning to map source code to software vulnerability using code-as-a-graph ,C
+10.48550/arXiv.2006.08614,Learning to map source code to software vulnerability using code-as-a-graph ,C++
+10.48550/arXiv.1612.04433,Mamadroid: detecting android malware by building markov chains of behavioral models ,Java
+10.48550/arXiv.2208.13252,MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities ,Solidity
+10.1016/j.ins.2020.11.053,Neural software vulnerability analysis using rich intermediate graph representations of programs ,Java
+10.1016/j.jss.2017.11.001,New deep learning method to detect code injection attacks on hybrid applications ,JavaScript
+10.48550/arXiv.2106.01367,On using distributed representations of source code for the detection of c security vulnerabilities ,C
+10.1109/ISSRE52982.2021.00047,Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques ,Solidity
+10.24963/ijcai.2020/454,Smart Contract Vulnerability Detection using Graph Neural Network ,Solidity
+10.48550/arXiv.2106.09282,Smart Contract Vulnerability Detection: From Pure Neural Network to Interpretable Graph Feature and Expert Pattern Fusion ,Solidity
+10.1145/2970276.2970343,SOFIA: an automated security oracle for black-box testing of SQL-injection vulnerabilities ,Java
+10.1145/2970276.2970343,SOFIA: an automated security oracle for black-box testing of SQL-injection vulnerabilities ,PHP
+10.48550/arXiv.2109.03341,Software vulnerability detection via deep learning over disaggregated code graph representation ,C
+10.48550/arXiv.2109.03341,Software vulnerability detection via deep learning over disaggregated code graph representation ,C++
+10.1109/TDSC.2019.2954088,Software vulnerability discovery via learning multi-domain knowledge bases ,C
+10.1109/TDSC.2019.2954088,Software vulnerability discovery via learning multi-domain knowledge bases ,C++
+10.1145/3468854,SPI: Automated Identification of Security Patches via Commits ,C
+10.1109/ICECCS.2019.00012,Static detection of control-flow-related vulnerabilities using graph embedding ,C
+10.1109/TDSC.2021.3051525,SySeVR: A framework for using deep learning to detect software vulnerabilities ,C
+10.1109/TDSC.2021.3051525,SySeVR: A framework for using deep learning to detect software vulnerabilities ,C++
+10.1007/978-3-030-68110-4_7,The random neural network as a bonding model for software vulnerability prediction ,C
+10.1007/978-3-030-68110-4_7,The random neural network as a bonding model for software vulnerability prediction ,C++
+10.1145/2857705.2857720,Toward large-scale vulnerability discovery using machine learning ,C
+10.1109/ACCESS.2020.2969429,Towards automated reentrancy detection for smart contracts based on sequential models ,Solidity
+10.1016/j.sysarc.2010.06.003,Using complexity coupling and cohesion metrics as early indicators of vulnerabilities ,C
+10.1016/j.sysarc.2010.06.003,Using complexity coupling and cohesion metrics as early indicators of vulnerabilities ,C++
+10.1016/j.sysarc.2010.06.003,Using complexity coupling and cohesion metrics as early indicators of vulnerabilities ,JavaScript
+10.1145/2810103.2813604,VCCfinder: Finding potential vulnerabilities in open-source projects to assist code audits ,C
+10.1145/2810103.2813604,VCCfinder: Finding potential vulnerabilities in open-source projects to assist code audits ,C++
+10.1109/SANER53432.2022.00114,VELVET: a noVel Ensemble Learning approach to automatically locate VulnErable sTatements ,C
+10.1145/3510003.3510229,VulCNN: An Image-inspired Scalable Vulnerability Detection System ,C
+10.1145/3510003.3510229,VulCNN: An Image-inspired Scalable Vulnerability Detection System ,C++
+10.1109/TDSC.2021.3076142,VulDeeLocator: A Deep Learning-based Fine-grained Vulnerability Detector ,C
+10.14722/ndss.2018.23158,VulDeePecker: A deep learning-based system for multiclass vulnerability detection ,C
+10.14722/ndss.2018.23158,VulDeePecker: A deep learning-based system for multiclass vulnerability detection ,C++
+10.1109/GLOCOM.2017.8254428,Vuldigger: A just-in-time and cost-aware tool for digging vulnerability-contributing changes ,C
+10.1109/GLOCOM.2017.8254428,Vuldigger: A just-in-time and cost-aware tool for digging vulnerability-contributing changes ,C++
+10.1109/ICSAI.2018.8599360,Vulnerability detection for source code using contextual LSTM ,C
+10.1145/3468264.3468597,Vulnerability Detection with Fine-Grained Interpretations ,C
+10.1109/ACCESS.2020.3016774,Vulnerability Prediction From Source Code Using Machine Learning ,C
+10.24963/ijcai.2019/648,VulSniper: Focus Your Attention to Shoot Fine-Grained Vulnerabilities ,C
+10.1145/3264437.3264476,Applying Deep Learning Techniques for Android Malware Detection ,smali
+10.1145/3230833.3230856,Discovering Software Vulnerabilities Using Data-Flow Analysis and Machine Learning ,PHP
+10.1145/3564625.3567985,Transformer-Based Language Models for Software Vulnerability Detection ,C
+10.1145/3564625.3567985,Transformer-Based Language Models for Software Vulnerability Detection ,C++
+10.1145/3274694.3274744,Improving Accuracy of Android Malware Detection with Lightweight Contextual Awareness ,Java
+10.1109/ICSE.2013.6606610,Mining SQL Injection and Cross Site Scripting Vulnerabilities Using Hybrid Program Analysis ,PHP
+10.1145/3340422.3343639,Android Malware Prediction Using Extreme Learning Machine with Different Kernel Functions ,Java
+10.1109/ICCNEA53019.2021.00016,Vulnerability Feature Extraction Model for Source Code Based on Deep Learning ,C
+10.1109/ICCNEA53019.2021.00016,Vulnerability Feature Extraction Model for Source Code Based on Deep Learning ,C++
+10.1109/TrustCom56396.2022.00217,SCEVD: Semantic-enhanced Code Embedding for Vulnerability Discovery ,C
+10.1109/ICCNEA57056.2022.00041,Message Passing Graph Neural Networks for Software Security Vulnerability Detection ,Python
+10.1109/QRS-C57518.2022.00011,A Hierarchical Deep Neural Network for Detecting Lines of Codes with Vulnerabilities ,C
+10.1109/TDSC.2014.2373377,Web Application Vulnerability Prediction Using Hybrid Program Analysis and Machine Learning ,PHP
+10.1109/IJCNN55064.2022.9892444,Automated Vulnerable Codes Mutation through Deep Learning for Variability Detection ,C
+10.1109/COMPSAC54236.2022.00142,Can Deep Learning Models Learn the Vulnerable Patterns for Vulnerability Detection? ,Java
+10.1109/ISPA-BDCloud-SocialCom-SustainCom51426.2020.00068,AVDHRAM: Automated Vulnerability Detection based on Hierarchical Representation and Attention Mechanism ,C
+10.1109/TDSC.2019.2942930,$\mu$μVulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection ,C
+10.1109/TDSC.2019.2942930,$\mu$μVulDeePecker: A Deep Learning-Based System for Multiclass Vulnerability Detection ,C++
+10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00126,Self-Attention based Automated Vulnerability Detection with Effective Data Representation ,C
+10.1109/TrustCom50675.2020.00229,An Efficient Vulnerability Extrapolation Using Similarity of Graph Kernel of PDGs ,C
+10.1109/TrustCom50675.2020.00229,An Efficient Vulnerability Extrapolation Using Similarity of Graph Kernel of PDGs ,C++
+10.1109/DSN53405.2022.00026,SEVulDet: A Semantics-Enhanced Learnable Vulnerability Detector ,C
+10.1109/DSN53405.2022.00026,SEVulDet: A Semantics-Enhanced Learnable Vulnerability Detector ,C++
+10.1109/CCWC51732.2021.9376145,Vulnerability Detection in C/C++ Source Code With Graph Representation Learning ,C
+10.1109/CCWC51732.2021.9376145,Vulnerability Detection in C/C++ Source Code With Graph Representation Learning ,C++
+10.1109/ISSREW55968.2022.00042,VulDeBERT: A Vulnerability Detection System Using BERT ,C
+10.1109/ISSREW55968.2022.00042,VulDeBERT: A Vulnerability Detection System Using BERT ,C++
+10.1109/AIPR57179.2022.10092211,Detecting Software Code Vulnerabilities Using 2D Convolutional Neural Networks with Program Slicing Feature Maps ,C
+10.1109/AIPR57179.2022.10092211,Detecting Software Code Vulnerabilities Using 2D Convolutional Neural Networks with Program Slicing Feature Maps ,C++
+10.1109/CSCWD54268.2022.9776051,Inductive Vulnerability Detection via Gated Graph Neural Network ,C
+10.1109/CSCWD54268.2022.9776051,Inductive Vulnerability Detection via Gated Graph Neural Network ,C++
+10.1109/INFOCOMWKSHPS50562.2020.9163061,Efficient Vulnerability Detection based on abstract syntax tree and Deep Learning ,C
+10.1109/INFOCOMWKSHPS50562.2020.9163061,Efficient Vulnerability Detection based on abstract syntax tree and Deep Learning ,C++
+10.1109/INFOCOMWKSHPS51825.2021.9484500,Security Vulnerability Detection Using Deep Learning Natural Language Processing ,C
+10.1109/INFOCOMWKSHPS51825.2021.9484500,Security Vulnerability Detection Using Deep Learning Natural Language Processing ,C++
+10.1109/INFOCOMWKSHPS54753.2022.9798297,Hierarchical Attention Network for Interpretable and Fine-Grained Vulnerability Detection ,C
+10.1109/INFOCOMWKSHPS54753.2022.9798297,Hierarchical Attention Network for Interpretable and Fine-Grained Vulnerability Detection ,C++
+10.1109/ACCESS.2020.2988557,Deep Learning for Software Vulnerabilities Detection Using Code Metrics ,C
+10.1109/ACCESS.2020.2988557,Deep Learning for Software Vulnerabilities Detection Using Code Metrics ,C++
+10.1109/BigData50022.2020.9377803,Explainable Software vulnerability detection based on Attention-based Bidirectional Recurrent Neural Networks ,C
+10.1109/TDSC.2020.2984505,CD-VulD: Cross-Domain Vulnerability Discovery Based on Deep Domain Adaptation ,C
+10.1109/TDSC.2020.2984505,CD-VulD: Cross-Domain Vulnerability Discovery Based on Deep Domain Adaptation ,C++
+10.1109/SweDS53855.2021.9638301,Predicting Security Vulnerabilities using Source Code Metrics ,Java
+10.1109/TrustCom50675.2020.00078,FTCLNet: Convolutional LSTM with Fourier Transform for Vulnerability Detection ,C
+10.1109/TrustCom50675.2020.00078,FTCLNet: Convolutional LSTM with Fourier Transform for Vulnerability Detection ,C++
+10.1109/IOTSMS48152.2019.8939256,SoliAudit: Smart Contract Vulnerability Assessment Based on Machine Learning and Fuzz Testing ,Solidity
+10.1109/CSE/EUC.2019.00028,Using Software Metrics for Predicting Vulnerable Code-Components: A Study on Java and Python Open Source Projects ,Java
+10.1109/CSE/EUC.2019.00028,Using Software Metrics for Predicting Vulnerable Code-Components: A Study on Java and Python Open Source Projects ,Python
+10.1109/MILCOM52596.2021.9652940,PatchRNN: A Deep Learning-Based System for Security Patch Identification ,C
+10.1109/MILCOM52596.2021.9652940,PatchRNN: A Deep Learning-Based System for Security Patch Identification ,C++
+10.1109/ACCESS.2020.3041181,Vulnerable Code Detection Using Software Metrics and Machine Learning ,C
+10.1109/ACCESS.2020.3041181,Vulnerable Code Detection Using Software Metrics and Machine Learning ,C++
+10.1109/ICACI49185.2020.9177528,UA-Miner: Deep Learning Systems for Expose Unprotected API Vulnerability in Source Code ,C
+10.1109/CECIT53797.2021.00202,Source Code Vulnerability Detection Based On SAR-GIN ,C
+10.1109/CECIT53797.2021.00202,Source Code Vulnerability Detection Based On SAR-GIN ,C++
+10.1109/PST47121.2019.8949045,Machine Learning Model for Smart Contracts Security Analysis ,Solidity
+10.1109/BigDataSecurityHPSCIDS54978.2022.00015,A Semantic Analysis-Based Method for Smart Contract Vulnerability ,Solidity
+10.1109/ISSRE52982.2021.00054,Vu1SPG: Vulnerability detection based on slice property graph representation learning ,C
+10.1109/ISSRE52982.2021.00054,Vu1SPG: Vulnerability detection based on slice property graph representation learning ,C++
+10.1109/ACCESS.2022.3216395,Code Aggregate Graph: Effective Representation for Graph Neural Networks to Detect Vulnerable Code ,C
+10.1109/ACCESS.2022.3216395,Code Aggregate Graph: Effective Representation for Graph Neural Networks to Detect Vulnerable Code ,C++
+10.1109/TDSC.2022.3199769,mVulPreter: A Multi-Granularity Vulnerability Detection System With Interpretations ,C
+10.1109/TDSC.2022.3199769,mVulPreter: A Multi-Granularity Vulnerability Detection System With Interpretations ,C++
+10.1109/QRS57517.2022.00015,Exploring Transformers for Multi-Label Classification of Java Vulnerabilities ,Java
+10.1109/ICSESP.2018.8376705,RanDroid: Android malware detection using random machine learning classifiers ,Java
+10.1109/TII.2019.2929739,Vulnerable Code Clone Detection for Operating System Through Correlation-Induced Learning ,C
+10.1109/SARNOF.2016.7846747,DroidDeepLearner: Identifying Android malware using deep learning ,Java
+10.1109/ICDSIC56987.2022.10075777,SQL Injection Detection Using 2D-Convolutional Neural Networks (2D-CNN) ,SQL
+10.1109/IJCNN.2018.8489414,A Machine Learning Approach to Malicious JavaScript Detection using Fixed Length Vector Representation ,JavaScript
+10.1109/ICECTA48151.2019.8959617,Detection of SQL Injection Attacks: A Machine Learning Approach ,SQL
+10.1109/AsiaJCIS.2019.000-9,Filtering Malicious JavaScript Code with Doc2Vec on an Imbalanced Dataset ,JavaScript
+10.1109/DSC54232.2022.9888816,A Hybrid Graph Neural Network Approach for Detecting PHP Vulnerabilities ,PHP
+10.1109/ACCESS.2020.3019282,Multifamily Classification of Android Malware With a Fuzzy Strategy to Resist Polymorphic Familial Variants ,Java
+10.1109/TASE.2018.00015,Repassdroid: Automatic detection of android malware based on essential permissions and semantic features of sensitive apis ,Java
+10.14722/ndss.2014.23039,A Machine-learning approach for classifying and categorizing android sources and sinks ,Java
+10.1007/s10664-017-9539-8,A multi-view context-aware approach to android malware detection and malicious code localization ,Java
