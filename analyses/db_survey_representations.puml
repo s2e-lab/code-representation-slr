@@ -1,0 +1,117 @@
+@startuml 
+class "survey_representations.Language <Survey_Representations>" as survey_representations.Language #d6d9f4 {
+    language
+    --
+    + id (CharField)
+    + name (CharField)
+    --
+}
+
+
+class "survey_representations.CybersecurityTask <Survey_Representations>" as survey_representations.CybersecurityTask #d6d9f4 {
+    cybersecurity task
+    --
+    + id (BigAutoField)
+    + name (CharField)
+    + description (CharField)
+    + category (MultiSelectField)
+    + touchpoints (MultiSelectField)
+    --
+}
+
+
+class "survey_representations.MachineLearningModel <Survey_Representations>" as survey_representations.MachineLearningModel #d6d9f4 {
+    machine learning model
+    --
+    + id (BigAutoField)
+    + name (CharField)
+    + short_name (CharField)
+    + description (CharField)
+    + category (MultiSelectField)
+    --
+}
+
+
+class "survey_representations.Representation <Survey_Representations>" as survey_representations.Representation #d6d9f4 {
+    representation
+    --
+    + id (BigAutoField)
+    + name (CharField)
+    + category (CharField)
+    --
+}
+
+
+class "survey_representations.Paper <Survey_Representations>" as survey_representations.Paper #d6d9f4 {
+    paper
+    --
+    + id (BigAutoField)
+    + title (CharField)
+    + bibtex_id (CharField)
+    + url (URLField)
+    + is_from_snowballing (BooleanField)
+    + type (CharField)
+    + doi (CharField)
+    --
+}
+
+
+class "survey_representations.PaperFinding <Survey_Representations>" as survey_representations.PaperFinding #d6d9f4 {
+    Paper Finding
+    --
+    + id (BigAutoField)
+    + name (CharField)
+    + description (TextField)
+    --
+}
+
+
+class "survey_representations.Metric <Survey_Representations>" as survey_representations.Metric #d6d9f4 {
+    metric
+    --
+    + id (BigAutoField)
+    + name (CharField)
+    + description (TextField)
+    --
+}
+
+
+class "survey_representations.Analysis <Survey_Representations>" as survey_representations.Analysis #d6d9f4 {
+    analysis
+    --
+    + id (BigAutoField)
+    + user_id (IntegerField)
+    ~ paper (ForeignKey)
+    + comments (TextField)
+    + is_new_representation (BooleanField)
+    # languages (ManyToManyField)
+    # representations (ManyToManyField)
+    # ml_models (ManyToManyField)
+    # tasks (ManyToManyField)
+    # findings (ManyToManyField)
+    --
+}
+survey_representations.Analysis -- survey_representations.Paper
+survey_representations.Analysis *--* survey_representations.Language
+survey_representations.Analysis *--* survey_representations.Representation
+survey_representations.Analysis *--* survey_representations.MachineLearningModel
+survey_representations.Analysis *--* survey_representations.CybersecurityTask
+survey_representations.Analysis *--* survey_representations.PaperFinding
+
+
+class "survey_representations.EvaluationResult <Survey_Representations>" as survey_representations.EvaluationResult #d6d9f4 {
+    Evaluation Result
+    --
+    + id (BigAutoField)
+    ~ analysis (ForeignKey)
+    ~ metric (ForeignKey)
+    + value (FloatField)
+    + dataset (CharField)
+    + model_config (CharField)
+    --
+}
+survey_representations.EvaluationResult -- survey_representations.Analysis
+survey_representations.EvaluationResult -- survey_representations.Metric
+
+
+@enduml
