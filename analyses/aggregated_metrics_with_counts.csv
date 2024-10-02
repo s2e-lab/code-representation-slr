@@ -1,0 +1,97 @@
+Representation,Task,Avg Precision,Avg Recall,Avg F1,Count Precision,Count Recall,Count F1
+API Calls,Malware Detection,92.045,94.18333333333334,93.04166666666667,6,6,6
+AST+,Vulnerability Detection,81.9425,93.465,58.239312500000004,2,2,48
+Abstract Syntax Tree (AST),Cryptography Misuse,78.892,80.88,78.6,25,25,25
+Abstract Syntax Tree (AST),Injection Attack Detection,97.815,95.15,,2,2,0
+Abstract Syntax Tree (AST),Malicious Code Classification,98.014,97.23400000000001,97.566,5,5,5
+Abstract Syntax Tree (AST),Malicious Code Deobfuscation,98.014,97.23400000000001,97.566,5,5,5
+Abstract Syntax Tree (AST),Malicious Package Detection,76.0,46.333333333333336,,6,6,0
+Abstract Syntax Tree (AST),Security Analysis,79.5625,80.625,79.125,16,16,16
+Abstract Syntax Tree (AST),Security Patch Detection/Identification,,,,0,0,0
+Abstract Syntax Tree (AST),Unprotected API Vulnerability Discovery,94.04,,78.39,1,0,1
+Abstract Syntax Tree (AST),Vulnerability Analysis,,,88.6875,0,0,16
+Abstract Syntax Tree (AST),Vulnerability Classification,74.66666666666667,88.56666666666666,80.60000000000001,3,3,3
+Abstract Syntax Tree (AST),Vulnerability Detection,80.64782608695653,68.3329411764706,74.20790697674418,46,34,86
+Abstract Syntax Tree (AST),Vulnerability Prediction,52.25714285714286,44.800000000000004,46.48571428571428,7,7,7
+Abstract Syntax Tree (AST),Vulnerability Repair,24.707142857142856,11.2,,14,1,0
+Abstract Syntax Tree (AST),Vulnerable Code Clone Detection,79.0,82.0,79.21,1,1,1
+Application Information,Malware Detection,97.62875,86.8325,91.1975,8,8,8
+BPE Subword Tokenization,Vulnerability Repair,,,,0,0,0
+Call graph,Classifying Android Sources and Sinks,90.92,90.28,,5,5,0
+Call graph,Malware Classification,,,,0,0,0
+Call graph,Malware Detection,93.36411764705883,94.91857142857143,89.3484375,34,35,64
+Call graph,Vulnerability Detection,,,,0,0,0
+Code Aggregate Graph (CAG),Vulnerability Detection,86.245,89.93125,87.97625,8,8,8
+Code Property Graph (CPG),Vulnerability Analysis,,,88.6875,0,0,16
+Code Property Graph (CPG),Vulnerability Detection,92.43,99.0,87.10000000000001,10,1,28
+Code Property Graph (CPG),Vulnerability Localization,86.60000000000001,70.86666666666666,77.03333333333333,6,6,6
+Code gadgets,Vulnerability Detection,85.16193548387096,76.14888888888889,82.52548387096775,62,36,62
+Code metrics,Classifying Android Sources and Sinks,90.92,90.28,,5,5,0
+Code metrics,Injection Attack Detection,,,,0,0,0
+Code metrics,Malicious Code Classification,98.014,97.23400000000001,97.566,5,5,5
+Code metrics,Malicious Code Deobfuscation,98.014,97.23400000000001,97.566,5,5,5
+Code metrics,Malware Prediction,,,,0,0,0
+Code metrics,Security Patch Detection/Identification,73.81818181818181,84.45454545454545,91.4,11,11,10
+Code metrics,Vulnerability Analysis,,96.83333333333333,,0,6,0
+Code metrics,Vulnerability Detection,67.28888888888889,72.8395652173913,56.95375,18,23,16
+Code metrics,Vulnerability Fixing/Inducing Commits Detection,92.0,14.0,,1,1,0
+Code metrics,Vulnerability Prediction,73.42423076923077,57.2490625,56.59133333333333,26,32,15
+Component Behavior Graph (CBG),Malicious Behavior Detection,,,,0,0,0
+Component Dependency Graph (CDG),Malicious Behavior Detection,,,,0,0,0
+Contextual API Dependency Graph (CADG),Malicious Code Localization,73.748,87.306,84.7,5,5,4
+Contextual API Dependency Graph (CADG),Malware Detection,83.27875,90.7625,90.31857142857143,8,8,7
+Contextual ICFG (CICFG),Malicious Code Localization,73.748,87.306,84.7,5,5,4
+Contextual ICFG (CICFG),Malware Detection,73.748,87.306,84.7,5,5,4
+Contextual Permission Dependency Graph (CPDG),Malicious Code Localization,73.748,87.306,84.7,5,5,4
+Contextual Permission Dependency Graph (CPDG),Malware Detection,73.748,87.306,84.7,5,5,4
+Contextual Source and Sink Dependency Graph (CSSDG),Malicious Code Localization,73.748,87.306,84.7,5,5,4
+Contextual Source and Sink Dependency Graph (CSSDG),Malware Detection,73.748,87.306,84.7,5,5,4
+Contract Graph,Vulnerability Detection,74.77666666666666,78.77708333333332,76.68208333333332,24,24,24
+Contract Snippet,Reentrancy Detection,83.72,,83.555,4,0,4
+Control Flow Graph (CFG),Malware Classification,,,,0,0,0
+Control Flow Graph (CFG),Vulnerability Analysis,,,88.6875,0,0,16
+Control Flow Graph (CFG),Vulnerability Detection,79.49666666666667,80.53058823529412,75.9354,18,17,50
+Crucial Data Flow Graph (CDFG),Vulnerability Detection,89.23,89.13666666666667,89.16333333333334,3,3,3
+Data Flow Graph (DFG),Vulnerability Detection,84.80666666666666,82.88230769230769,67.79650000000001,12,13,20
+Image,Malware Detection,,,,0,0,0
+Image,Vulnerability Detection,,,,0,0,0
+Interprocedural Control Flow Graph (ICFG),Malicious Code Localization,73.748,87.306,84.7,5,5,4
+Interprocedural Control Flow Graph (ICFG),Malware Detection,83.27875,90.7625,90.31857142857143,8,8,7
+New representation,Reentrancy Detection,83.72,,83.555,4,0,4
+New representation,Vulnerability Analysis,,,75.71197452229299,0,0,157
+New representation,Vulnerability Detection,80.97379310344827,77.29785714285715,82.41026315789475,29,14,38
+New representation,Vulnerability Repair,,,,0,0,0
+Opcode Sequences,Vulnerability Testing,84.4875,73.325,77.2625,8,8,8
+Parse Tree,Vulnerability Testing,,100.0,,0,9,0
+Program Dependence Graph (PDG),Vulnerability Analysis,,,88.6875,0,0,16
+Program Dependence Graph (PDG),Vulnerability Detection,69.52727272727272,65.75,80.41851851851852,11,4,27
+Program Dependence Graph (PDG),Vulnerability Extrapolation,,,,0,0,0
+Program Graph,Vulnerability Detection,92.0,94.5,94.0,1,2,1
+Propagation Chain,Reentrancy Detection,90.0,92.0,91.5,2,2,2
+Property Graph,Vulnerability Analysis,,,75.71197452229299,0,0,157
+Semantic Graph,Vulnerability Detection,82.33666666666666,85.0,83.64,3,3,3
+Simplified CPG (SCPG),Vulnerability Detection,84.0,83.1,79.9276923076923,1,1,13
+Slice Property Graph (SPG),Vulnerability Detection,72.06666666666668,79.23333333333333,64.16315789473684,3,3,19
+System Dependence Graph (SDG),Vulnerability Detection,,,,0,0,0
+System Dependence Graph (SDG),Vulnerability Prediction,65.84210526315789,71.76315789473684,,38,38,0
+Token Graph,Vulnerability Detection,79.0,59.5,63.5,4,4,4
+Tokenizer,Buffer Overrun Prediction,,,83.5,0,0,4
+Tokenizer,Injection Attack Detection,,,,0,0,0
+Tokenizer,Malicious Code Filtering,95.95,55.099999999999994,70.05,2,2,2
+Tokenizer,Malware Detection,,,91.68615384615386,0,0,13
+Tokenizer,Password Leaks,91.09411764705882,89.16117647058823,90.04705882352941,17,17,17
+Tokenizer,Reentrancy Detection,90.0,92.0,91.5,2,2,2
+Tokenizer,Security Patch Detection/Identification,73.245,85.55,77.91071428571429,28,28,28
+Tokenizer,Vulnerability Analysis,,96.83333333333333,,0,6,0
+Tokenizer,Vulnerability Classification,82.33333333333333,57.5,61.166666666666664,6,6,6
+Tokenizer,Vulnerability Detection,67.23071641791044,70.944125,79.16844117647058,67,56,68
+Tokenizer,Vulnerability Fixing/Inducing Commits Detection,77.0,66.5,69.44444444444444,2,2,9
+Tokenizer,Vulnerability Prediction,80.181875,80.02140625,85.76176470588236,64,64,17
+Tokenizer,Vulnerability Repair,56.5,11.2,,1,1,0
+Tokenizer,Vulnerability Testing,,,80.29565217391304,0,0,23
+Value Flow Graph (VFG),Vulnerability Detection,75.5,82.9,77.71666666666667,2,2,6
+XFG/Program slices,Vulnerability Detection,94.75333333333333,,72.12708333333333,3,0,24
+codeBERT,Vulnerability Detection,21.318181818181817,49.50909090909091,29.38181818181818,11,11,11
+doc2vec,Malicious Code Detection,0.88,0.875,0.865,2,2,2
+iSeVC,Vulnerability Detection,84.8047619047619,,80.92035087719299,42,0,57
+sSyVC,Vulnerability Detection,84.8047619047619,,78.49702127659575,42,0,47

@@ -1,0 +1,169 @@
+﻿Metric,Value,Dataset,Model Config
+top-10 precision,80,Ffmpeg (rep from CVE),BiLSTM
+top-10 recall,6,Ffmpeg (rep from CVE),BiLSTM
+top-20 precision,50,Ffmpeg (rep from CVE),BiLSTM
+top-20 recall,50,Ffmpeg (rep from CVE),BiLSTM
+top-30 precision,7,Ffmpeg (rep from CVE),BiLSTM
+top-30 recall,50,Ffmpeg (rep from CVE),BiLSTM
+top-40 precision,10,Ffmpeg (rep from CVE),BiLSTM
+top-40 recall,58,Ffmpeg (rep from CVE),BiLSTM
+top-50 precision,16,Ffmpeg (rep from CVE),BiLSTM
+top-50 recall,56,Ffmpeg (rep from CVE),BiLSTM
+top-100 precision,19,Ffmpeg (rep from CVE),BiLSTM
+top-100 recall,47,Ffmpeg (rep from CVE),BiLSTM
+top-150 precision,32,Ffmpeg (rep from CVE),BiLSTM
+top-150 recall,41,Ffmpeg (rep from CVE),BiLSTM
+top-10 precision,40,Ffmpeg (rep from SARD),BiLSTM
+top-10 recall,90,Ffmpeg (rep from SARD),BiLSTM
+top-20 precision,6,Ffmpeg (rep from SARD),BiLSTM
+top-20 recall,70,Ffmpeg (rep from SARD),BiLSTM
+top-30 precision,10,Ffmpeg (rep from SARD),BiLSTM
+top-30 recall,63,Ffmpeg (rep from SARD),BiLSTM
+top-40 precision,13,Ffmpeg (rep from SARD),BiLSTM
+top-40 recall,58,Ffmpeg (rep from SARD),BiLSTM
+top-50 precision,16,Ffmpeg (rep from SARD),BiLSTM
+top-50 recall,46,Ffmpeg (rep from SARD),BiLSTM
+top-100 precision,16,Ffmpeg (rep from SARD),BiLSTM
+top-100 recall,43,Ffmpeg (rep from SARD),BiLSTM
+top-150 precision,40,Ffmpeg (rep from SARD),BiLSTM
+top-150 recall,41,Ffmpeg (rep from SARD),BiLSTM
+top-10 precision,80,LibTIFF(rep from CVE),BiLSTM
+top-10 recall,11,LibTIFF(rep from CVE),BiLSTM
+top-20 precision,70,LibTIFF(rep from CVE),BiLSTM
+top-20 recall,19,LibTIFF(rep from CVE),BiLSTM
+top-30 precision,53,LibTIFF(rep from CVE),BiLSTM
+top-30 recall,22,LibTIFF(rep from CVE),BiLSTM
+top-40 precision,48,LibTIFF(rep from CVE),BiLSTM
+top-40 recall,26,LibTIFF(rep from CVE),BiLSTM
+top-50 precision,42,LibTIFF(rep from CVE),BiLSTM
+top-50 recall,29,LibTIFF(rep from CVE),BiLSTM
+top-100 precision,39,LibTIFF(rep from CVE),BiLSTM
+top-100 recall,53,LibTIFF(rep from CVE),BiLSTM
+top-150 precision,33,LibTIFF(rep from CVE),BiLSTM
+top-150 recall,68,LibTIFF(rep from CVE),BiLSTM
+top-10 precision,80,LibTIFF (rep from SARD),BiLSTM
+top-10 recall,11,LibTIFF (rep from SARD),BiLSTM
+top-20 precision,70,LibTIFF (rep from SARD),BiLSTM
+top-20 recall,19,LibTIFF (rep from SARD),BiLSTM
+top-30 precision,63,LibTIFF (rep from SARD),BiLSTM
+top-30 recall,26,LibTIFF (rep from SARD),BiLSTM
+top-40 precision,63,LibTIFF (rep from SARD),BiLSTM
+top-40 recall,36,LibTIFF (rep from SARD),BiLSTM
+top-50 precision,64,LibTIFF (rep from SARD),BiLSTM
+top-50 recall,44,LibTIFF (rep from SARD),BiLSTM
+top-100 precision,42,LibTIFF (rep from SARD),BiLSTM
+top-100 recall,58,LibTIFF (rep from SARD),BiLSTM
+top-150 precision,33,LibTIFF (rep from SARD),BiLSTM
+top-150 recall,67,LibTIFF (rep from SARD),BiLSTM
+top-10 precision,100,LibPNG (rep from CVE),BiLSTM
+top-10 recall,30,LibPNG (rep from CVE),BiLSTM
+top-20 precision,90,LibPNG (rep from CVE),BiLSTM
+top-20 recall,55,LibPNG (rep from CVE),BiLSTM
+top-30 precision,87,LibPNG (rep from CVE),BiLSTM
+top-30 recall,79,LibPNG (rep from CVE),BiLSTM
+top-40 precision,68,LibPNG (rep from CVE),BiLSTM
+top-40 recall,82,LibPNG (rep from CVE),BiLSTM
+top-50 precision,60,LibPNG (rep from CVE),BiLSTM
+top-50 recall,91,LibPNG (rep from CVE),BiLSTM
+top-100 precision,30,LibPNG (rep from CVE),BiLSTM
+top-100 recall,91,LibPNG (rep from CVE),BiLSTM
+top-150 precision,21,LibPNG (rep from CVE),BiLSTM
+top-150 recall,97,LibPNG (rep from CVE),BiLSTM
+top-10 precision,90,LibPNG (rep from SARD),BiLSTM
+top-10 recall,27,LibPNG (rep from SARD),BiLSTM
+top-20 precision,85,LibPNG (rep from SARD),BiLSTM
+top-20 recall,52,LibPNG (rep from SARD),BiLSTM
+top-30 precision,73,LibPNG (rep from SARD),BiLSTM
+top-30 recall,67,LibPNG (rep from SARD),BiLSTM
+top-40 precision,60,LibPNG (rep from SARD),BiLSTM
+top-40 recall,73,LibPNG (rep from SARD),BiLSTM
+top-50 precision,50,LibPNG (rep from SARD),BiLSTM
+top-50 recall,76,LibPNG (rep from SARD),BiLSTM
+top-100 precision,33,LibPNG (rep from SARD),BiLSTM
+top-100 recall,100,LibPNG (rep from SARD),BiLSTM
+top-150 precision,22,LibPNG (rep from SARD),BiLSTM
+top-150 recall,100,LibPNG (rep from SARD),BiLSTM
+top-10 precision,90,Ffmpeg,BiLSTM
+top-10 recall,6,Ffmpeg,BiLSTM
+top-20 precision,71,Ffmpeg,BiLSTM
+top-20 recall,10,Ffmpeg,BiLSTM
+top-30 precision,67,Ffmpeg,BiLSTM
+top-30 recall,14,Ffmpeg,BiLSTM
+top-40 precision,60,Ffmpeg,BiLSTM
+top-40 recall,17,Ffmpeg,BiLSTM
+top-50 precision,52,Ffmpeg,BiLSTM
+top-50 recall,18,Ffmpeg,BiLSTM
+top-100 precision,46,Ffmpeg,BiLSTM
+top-100 recall,32,Ffmpeg,BiLSTM
+top-150 precision,39,Ffmpeg,BiLSTM
+top-150 recall,41,Ffmpeg,BiLSTM
+top-10 precision,80,LibTiff,BiLSTM
+top-10 recall,11,LibTiff,BiLSTM
+top-20 precision,75,LibTiff,BiLSTM
+top-20 recall,21,LibTiff,BiLSTM
+top-30 precision,73,LibTiff,BiLSTM
+top-30 recall,30,LibTiff,BiLSTM
+top-40 precision,60,LibTiff,BiLSTM
+top-40 recall,33,LibTiff,BiLSTM
+top-50 precision,62,LibTiff,BiLSTM
+top-50 recall,42,LibTiff,BiLSTM
+top-100 precision,41,LibTiff,BiLSTM
+top-100 recall,56,LibTiff,BiLSTM
+top-150 precision,33,LibTiff,BiLSTM
+top-150 recall,68,LibTiff,BiLSTM
+top-10 precision,100,LibPNG,BiLSTM
+top-10 recall,30,LibPNG,BiLSTM
+top-20 precision,95,LibPNG,BiLSTM
+top-20 recall,58,LibPNG,BiLSTM
+top-30 precision,87,LibPNG,BiLSTM
+top-30 recall,79,LibPNG,BiLSTM
+top-40 precision,68,LibPNG,BiLSTM
+top-40 recall,82,LibPNG,BiLSTM
+top-50 precision,54,LibPNG,BiLSTM
+top-50 recall,82,LibPNG,BiLSTM
+top-100 precision,33,LibPNG,BiLSTM
+top-100 recall,100,LibPNG,BiLSTM
+top-150 precision,22,LibPNG,BiLSTM
+top-150 recall,100,LibPNG,BiLSTM
+top-10 precision,56,LibPNG (no labels),BiLSTM
+top-10 recall,15,LibPNG (no labels),BiLSTM
+top-50 precision,55,LibPNG (no labels),BiLSTM
+top-50 recall,58,LibPNG (no labels),BiLSTM
+top-100 precision,35,LibPNG (no labels),BiLSTM
+top-100 recall,82,LibPNG (no labels),BiLSTM
+top-10 precision,30,LibPNG (no labels),BiLSTM
+top-10 recall,34,LibPNG (no labels),BiLSTM
+top-50 precision,30,LibPNG (no labels),BiLSTM
+top-50 recall,34,LibPNG (no labels),BiLSTM
+top-100 precision,30,LibPNG (no labels),BiLSTM
+top-100 recall,64,LibPNG (no labels),BiLSTM
+top-10 precision,32,LibPNG (no labels),BiLSTM
+top-10 recall,16,LibPNG (no labels),BiLSTM
+top-50 precision,19,LibTIFF (no labels),BiLSTM
+top-50 recall,48,LibTIFF (no labels),BiLSTM
+top-100 precision,15,LibTIFF (no labels),BiLSTM
+top-100 recall,75,LibTIFF (no labels),BiLSTM
+top-10 precision,32,LibTIFF (no labels),BiLSTM
+top-10 recall,16,LibTIFF (no labels),BiLSTM
+top-50 precision,19,LibTIFF (no labels),BiLSTM
+top-50 recall,48,LibTIFF (no labels),BiLSTM
+top-100 precision,15,LibTIFF (no labels),BiLSTM
+top-100 recall,75,LibTIFF (no labels),BiLSTM
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
